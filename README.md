@@ -12,6 +12,8 @@ redis的管理界面
     
 感谢支持
 
+示例：<a target="_blank">http://redis.wenwuit.cn</a>
+
 欢迎加入  web开发交流 群【521838705】 讨论  
 
 > ThinkPHP5的运行环境要求PHP5.6以上。
