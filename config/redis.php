@@ -27,5 +27,5 @@ return [
         'scansize'=>1000,
         // Optional Redis authentication.
         //'auth' => 'redispasswordhere' // Warning: The password is sent in plain-text to the Redis server.
-    ]
+    ],
 ];
